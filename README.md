@@ -1,4 +1,3 @@
-[![npm version][project-npm-version]]
 [![npm dependencies][project-npm-dependencies]][project-npm-dependencies-url]
 [![npm dev dependencies][project-npm-dev-dependencies]][project-npm-dev-dependencies-url]
 
@@ -41,7 +40,6 @@ Reduce wasted time creating all these little files
   .jscsrc                 --> style checker: crockford
 ```
 
-[project-npm-version]: https://img.shields.io/npm/v/node-seed.svg
 [project-npm-dependencies]: https://david-dm.org/n2geoff/node-seed/status.svg
 [project-npm-dependencies-url]: https://david-dm.org/n2geoff/node-seed
 [project-npm-dev-dependencies]: https://david-dm.org/n2geoff/node-seed/dev-status.svg
