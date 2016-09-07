@@ -26,7 +26,7 @@ Reduce wasted time creating all these little files
 ## Included
 
 - Code style checker - [jscs](http://jscs.info/)
-- Test runner - [tape](https://github.com/substack/tape);
+- Test runner - [tape](https://github.com/substack/tape)
 - Test coverage checker - [istanbul](https://github.com/gotwarlost/istanbul/)
 - JsDoc generation - [jsdoc](http://usejsdoc.org/)
 
