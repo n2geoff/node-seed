@@ -1,4 +1,4 @@
-[![npm version][project-npm-version]][project-npm-version-url]
+[![npm version][project-npm-version]]
 [![npm dependencies][project-npm-dependencies]][project-npm-dependencies-url]
 [![npm dev dependencies][project-npm-dev-dependencies]][project-npm-dev-dependencies-url]
 
@@ -42,8 +42,7 @@ Reduce wasted time creating all these little files
 ```
 
 [project-npm-version]: https://img.shields.io/npm/v/node-seed.svg
-[project-npm-version-url]: https://www.npmjs.com/package/node-seed
-[project-npm-dependencies]: https://david-dm.org/hwndept/node-seed/status.svg
-[project-npm-dependencies-url]: https://david-dm.org/hwndept/node-seed
-[project-npm-dev-dependencies]: https://david-dm.org/hwndept/node-seed/dev-status.svg
-[project-npm-dev-dependencies-url]: https://david-dm.org/hwndept/node-seed#info=devDependencies&view=table
+[project-npm-dependencies]: https://david-dm.org/n2geoff/node-seed/status.svg
+[project-npm-dependencies-url]: https://david-dm.org/n2geoff/node-seed
+[project-npm-dev-dependencies]: https://david-dm.org/n2geoff/node-seed/dev-status.svg
+[project-npm-dev-dependencies-url]: https://david-dm.org/n2geoff/node-seed#info=devDependencies&view=table
