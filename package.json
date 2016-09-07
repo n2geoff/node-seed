@@ -1,0 +1,25 @@
+{
+  "name": "node-seed",
+  "version": "0.0.0",
+  "description": "node boilerplate for new projects",
+  "keywords": [
+    "node seed",
+    "node boilerplate",
+    "jscs"
+  ],
+  "main": "src/index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp pre-commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n2geoff/node-seed.git"
+  },
+  "author": "Geoff Doty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n2geoff/node-seed/issues"
+  },
+  "homepage": "https://github.com/n2geoff/node-seed",
+  "devDependencies": {}
+}
